@@ -303,6 +303,7 @@ code {
 /* for the pre block */
 pre {
     font-family: var(--code-fonts);
+    margin: 1rem;
 }
 
 pre code {
